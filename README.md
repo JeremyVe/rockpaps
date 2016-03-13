@@ -22,7 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Initialize with :
+
+    $ require "Rockpaps"
+    $ Rockpaps::Rps.new
+
 
 ## Development
 
